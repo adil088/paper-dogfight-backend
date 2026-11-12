@@ -1,0 +1,19 @@
+server:
+  port: 8080
+
+game:
+  cors:
+    # Browser origins allowed to call the API and open the WebSocket. "*" allows any (fine for
+    # playing with friends; for a public server list your site, e.g. https://game.example.com).
+    allowed-origins: "*"
+  rules:
+    # Every value below is the default from GameRulesConfig; change it here or in that class.
+    cols: 12
+    rows: 18
+    first-team: RED
+    lane-gaps: [13, 11, 13]
+    exact-roll-to-hit: true
+    hit-tolerance: 0
+    jets-to-destroy-to-win: 3
+    resolve-stalemate-by-jet-count: true
+    die-sides: 6
