@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="42962294-2494-43b7-a2ad-ee3c9af3bb53" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/paperdogfight/config/WebSocketConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/paperdogfight/config/WebSocketConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/paperdogfight/config/WebSocketConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/paperdogfight/config/WebSocketConfig.class" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;adil088&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/adil088/paper-dogfight-backend.git&quot;,
+    &quot;accountId&quot;: &quot;3678a477-7792-40ff-bedf-1f7fcae48052&quot;
+  }
+}</component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="1.8249846383028383" />
+      <entry key="MS500" value="4.185244400906258" />
+      <entry key="S2" value="7.912513922591991" />
+      <entry key="S5" value="14.48968170800894" />
+      <entry key="S10" value="20.571543792834433" />
+      <entry key="S30" value="27.34207241586572" />
+      <entry key="S60" value="29.79341383531722" />
+      <entry key="M2" value="34.478509788058034" />
+      <entry key="M5" value="50.44916172261299" />
+      <entry key="M10" value="64.32602636779643" />
+      <entry key="M15" value="70.8570303686589" />
+      <entry key="M30" value="78.66412203375336" />
+      <entry key="H1" value="83.1233201970716" />
+      <entry key="H2" value="85.50709119413263" />
+      <entry key="H4" value="86.73959348894397" />
+      <entry key="D1" value="87.78796757978382" />
+      <entry key="W1" value="87.96966118554175" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="0.0" />
+      <entry key="MS500" value="8.553493113096658E-271" />
+      <entry key="S2" value="3.0411362466690987E-68" />
+      <entry key="S5" value="9.844968955602948E-28" />
+      <entry key="S10" value="3.137669350904096E-14" />
+      <entry key="S30" value="3.1540535204241026E-5" />
+      <entry key="S60" value="0.005616096082176748" />
+      <entry key="M2" value="0.0749406170389379" />
+      <entry key="M5" value="0.35472100469725526" />
+      <entry key="M10" value="0.5955845907150844" />
+      <entry key="M15" value="0.7078843352559554" />
+      <entry key="M30" value="0.8413586246399066" />
+      <entry key="H1" value="0.9172560300373648" />
+      <entry key="H2" value="0.9577348432825048" />
+      <entry key="H4" value="0.9786392814936998" />
+      <entry key="D1" value="0.9964077741311741" />
+      <entry key="W1" value="0.9994860330683659" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="1.7660513255741048" />
+      <entry key="MS500" value="4.151338627149334" />
+      <entry key="S2" value="7.896891951644766" />
+      <entry key="S5" value="14.477396421985453" />
+      <entry key="S10" value="20.562346843840512" />
+      <entry key="S30" value="27.337854433219857" />
+      <entry key="S60" value="29.796609169587573" />
+      <entry key="M2" value="34.55155105290462" />
+      <entry key="M5" value="50.80206461398517" />
+      <entry key="M10" value="64.92024547015042" />
+      <entry key="M15" value="71.56386217853617" />
+      <entry key="M30" value="79.5048697677705" />
+      <entry key="H1" value="84.04024669361475" />
+      <entry key="H2" value="86.464654843329" />
+      <entry key="H4" value="87.7181455132622" />
+      <entry key="D1" value="88.78436057582697" />
+      <entry key="W1" value="88.96914510163249" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3M0aAHZBsAa5XIiRNzmN7tIrGUd" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;Spring Boot.PaperDogfightApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/mohdadil/Coding/paper-dogfight/backend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="PaperDogfightApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="paper-dogfight" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.paperdogfight.PaperDogfightApplication" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.paperdogfight.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.PaperDogfightApplication" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-ac68fc9d2b05-intellij.indexing.shared.core-IU-263.7307.200" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="42962294-2494-43b7-a2ad-ee3c9af3bb53" name="Changes" comment="" />
+      <created>1794489793482</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1794489793482</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-core" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-websocket" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-messaging" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework.boot:spring-boot" />
+    <option featureType="dependencySupport" implementationName="java:org.springframework:spring-webmvc" />
+  </component>
+</project>
